@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atiiyehh
-- 👀 I’m interested in software engineering and graphic design 
-- 🌱 I’m currently learning c programming, c++ and python 
-- 💞️ I’m looking to collaborate on basic programs using python language
+- 👀 I’m interested in software engineering and data analysis 
+- 🌱 I’m currently learning SQL and powerBI, excel formulas and dashboard and practicing coding with python 
+- 💞️ I’m looking to collaborate on basic programs related to Data analysis 
 - 📫 How to reach me: Instagram ID: miss_a_ha
 
 <!---
